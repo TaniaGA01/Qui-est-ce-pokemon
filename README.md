@@ -1,4 +1,4 @@
-# 4_pokemon_game
+# Qui est ce Pokémon ?
 
 ## Project setup
 ```
