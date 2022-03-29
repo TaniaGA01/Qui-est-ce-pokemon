@@ -1,9 +1,7 @@
 # Qui est ce Pokémon ?
-```
 
-## Site de test
-```
-https://qui-est-ce-pokemon.netlify.app/
+
+Site de test : https://qui-est-ce-pokemon.netlify.app/
 
 ## Project setup
 ```
