@@ -24,3 +24,4 @@ npm run test:unit
 See [Configuration Reference](https://cli.vuejs.org/config/).
 # Qui-est-ce-pokemon
 # Qui-est-ce-pokemon
+# qui-est-ce-pokemon
