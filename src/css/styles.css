@@ -1,0 +1,26 @@
+body{
+    background-image: url(https://assets.pokemon.com//assets/cms2-fr-fr/img/misc/virtual-backgrounds/masters/forest.jpg);
+    background-position: top left;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.container {
+    width: 100%;
+}
+hr{
+    border-top: none;
+    margin: 20px 0;
+}
+
+@media (max-width: 991px) {
+    body{
+        background-size: cover;
+        width: initial;
+    }
+    .container {
+        width: 100%;
+    }
+    .wrapper{
+        display: contents;
+    }
+ }
