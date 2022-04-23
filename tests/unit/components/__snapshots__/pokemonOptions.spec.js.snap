@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`pokemonOptions Component Match avec snapshot 1`] = `
+<div class="options-container">
+  <ul>
+    <li>
+      <!-- dos argumentos : 1. Nombre del evento (argumento obligatorio) 2. Data (opcional). El valor 1 se envía al padre, el valor dos se envía como argumento a la funcion donde el evento 1 funciona-->bulbasaur
+    </li>
+    <li>
+      <!-- dos argumentos : 1. Nombre del evento (argumento obligatorio) 2. Data (opcional). El valor 1 se envía al padre, el valor dos se envía como argumento a la funcion donde el evento 1 funciona-->ivysaur
+    </li>
+    <li>
+      <!-- dos argumentos : 1. Nombre del evento (argumento obligatorio) 2. Data (opcional). El valor 1 se envía al padre, el valor dos se envía como argumento a la funcion donde el evento 1 funciona-->venusaur
+    </li>
+    <li>
+      <!-- dos argumentos : 1. Nombre del evento (argumento obligatorio) 2. Data (opcional). El valor 1 se envía al padre, el valor dos se envía como argumento a la funcion donde el evento 1 funciona-->charmander
+    </li>
+  </ul>
+</div>
+`;

@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PokemonPage component Match snapshot après le chargement des pokemons 1`] = `
+<div class="wrapper">
+  <div class="title-block">
+    <p class="score succes-message">0</p>
+    <h1>Qui est ce pokémon ?</h1>
+    <p class="score error-message">0</p>
+  </div>
+  <div class="big">
+    <div class="primary-block">
+      <pokemon-image-stub pokemonid="1" showpokemon="false"></pokemon-image-stub>
+      <pokemon-options-stub pokemons="[object Object],[object Object],[object Object],[object Object]" class=""></pokemon-options-stub>
+    </div>
+    <!--v-if-->
+  </div>
+</div>
+`;

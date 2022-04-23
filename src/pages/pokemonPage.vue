@@ -10,7 +10,7 @@
 
     <template v-if="!pokemon">
       <div class="primary-block">
-      <h2>En attente ...</h2>
+      <h3>En attente ...</h3>
       </div>
     </template>
     

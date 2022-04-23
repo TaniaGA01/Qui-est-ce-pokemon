@@ -1,7 +1,7 @@
 import pokemonApi from '@/api/pokemonApi'
 
 // 1. Creamos el arreglo de los Pokemones
-const getPokemons = () => {
+export const getPokemons = () => {
 
     const pokemonsArr = Array.from( Array(650) )
     return pokemonsArr.map( (_ , index) => index + 1 )
@@ -21,7 +21,7 @@ const getPokemonsOptions = async() => {
 
 // 3. Recuperamos los nombres
 
-const getPokemonsNames = async( [a,b,c,d] = []) =>{
+export const getPokemonsNames = async( [a,b,c,d] = []) =>{
 
     //Se declara un arreglo de promesas
     const promiseArr = [
